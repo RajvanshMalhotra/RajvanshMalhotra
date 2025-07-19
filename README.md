@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RajvanshMalhotra/RajvanshMalhotra/blob/main/assets/tom.png" alt="Tom loves Transformer Architecture" width="450"/>
+  <img src="https://github.com/RajvanshMalhotra/RajvanshMalhotra/blob/main/assets_/tom.png" alt="Tom loves Transformer Architecture" width="450"/>
 </p>
 
 #  💪 About Me

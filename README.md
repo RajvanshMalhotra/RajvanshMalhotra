@@ -20,8 +20,8 @@ Building next-gen AI systems that don't just work — they dominate benchmarks a
 
 ## 🏆 **Recent Wins:**
 - **Deepfake Detection:** 60% → 99.8% accuracy (F1: 0.9989) (a novel method, paper under process)
-- **Battery Prediction:** 99.89% accuracy with sparse data
-- **LinkedIn Agent:** Scales 100s of jobs with multithreaded efficiency
+- **Battery Prediction:** 99.8% accuracy
+- **LinkedIn Agent:** Scales to 100s of jobs with multithreaded efficiency
 - **Fine-tuning:** QLoRA implementation with 4-bit quantization
 
 
@@ -31,7 +31,7 @@ Building next-gen AI systems that don't just work — they dominate benchmarks a
 - Production-scale AI automation systems  
 
 
-## 📈 **Philosophy:**
+## **Philosophy I admire:**
 *"न हि कल्याणकृत्कश्चिद् दुर्गतिं तात गच्छति।"*
 
 

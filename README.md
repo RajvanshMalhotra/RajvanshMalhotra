@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/RajvanshMalhotra/RajvanshMalhotra/blob/main/assets/tom.png" alt="Tom loves Transformer Architecture" width="450"/>
+</p>
+
 #  💪 About Me
 <br><br>I'm Rajvansh Malhotra, a Computer Engineering student at NIT Kurukshetra, passionate about building AI systems that solve real problems efficiently and at scale.<br><br>
 

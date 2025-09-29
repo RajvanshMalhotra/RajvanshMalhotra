@@ -20,9 +20,9 @@ Building next-gen AI systems that don't just work — they dominate benchmarks a
 
 ## 🏆 **Recent Wins:**
 - **Deepfake Detection:** 60% → 99.8% accuracy (F1: 0.9989) (a novel method, paper under process)
-- **Battery Prediction:** 99.8% accuracy
-- **LinkedIn Agent:** Scales to 100s of jobs with multithreaded efficiency
-- **Fine-tuning:** QLoRA implementation with 4-bit quantization
+- **car Battery Prediction:** 99.8% accuracy
+- **LinkedIn ai Agent:** Scales to 100s of jobs with multithreaded efficiency and custom caching basically redis on steroids 
+- **Fine-tuning:** QLoRA implementation with 4-bit quantization, for the novel purpose of 'rizzing'.
 
 
 

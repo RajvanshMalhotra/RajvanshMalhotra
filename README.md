@@ -16,7 +16,7 @@ What I build: AI systems and agents that work reliably and scale smoothly.
 I’m always open to opportunities that involve building and  learning.
 
 ## 🎯 **Current Focus:**
-Building next-gen AI systems that don't just work — they dominate benchmarks and solve real problems, also digging the path towards agi.
+Building next-gen AI systems that don't just work, they dominate benchmarks and solve real problems, also digging the path towards agi also rizzin side by side.
 
 ## 🏆 **Recent Wins:**
 - **Deepfake Detection:** 60% → 99.8% accuracy (F1: 0.9989) (a novel method, paper under process)

@@ -5,7 +5,7 @@
 #  💪 About Me
 <br><br>I'm Rajvansh Malhotra, a Computer Engineering student at NIT Kurukshetra, passionate about building AI systems that solve real problems efficiently and at scale.<br><br>
 
-My work spans from machine learning to deep learning and transormers, with hands-on experience in projects involving nerual nets,sequence to sequence models,Vision Transformers,fine-tuning llms ai agents.
+My work spans from machine learning to deep learning and transormers, with hands-on experience in projects involving nerual nets,sequence to sequence models,Vision Transformers,fine-tuning llms and  Agentic ai.
 I'm always up to date with the latest tools and methods, and I enjoy combining technical depth with practical execution. Whether it's optimizing performance, scaling systems, or simplifying complex tasks, I focus on delivering clean, effective solutions.<br><br>
 
 What I bring: Strong technical skills, fast learning, and execution and deep research mindset.

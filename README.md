@@ -19,6 +19,7 @@ I’m always open to opportunities that involve building and  learning.
 Building next-gen AI systems that don't just work, they dominate benchmarks and solve real problems, also digging the path towards agi also rizzin side by side.
 
 ## 🏆 **Recent Wins:**
+-**AMAZON ML CHALLENGE 2025:** AIR 2313 
 - **Deepfake Detection:** 60% → 99.8% accuracy (F1: 0.9989) (a novel method, paper under process)
 - **car Battery Prediction:** 99.8% accuracy
 - **LinkedIn ai Agent:** Scales to 100s of jobs with multithreaded efficiency and custom caching basically redis on steroids 

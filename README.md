@@ -52,6 +52,9 @@ P.S : made with caffine,like optimus prime :)
 ![](https://nirzak-streak-stats.vercel.app/?user=rajvanshmalhotra&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajvanshmalhotra&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=RajvanshMalhotra&style=for-the-badge)
+
 
 
 

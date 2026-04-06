@@ -27,7 +27,7 @@ Building next-gen AI systems that don't just work, they dominate benchmarks and 
 played around with memory,orchestration, hierachial thoughts,byte size node linkage, but will get there soon! (for more go on repo!)
 P.S : made with caffine,like optimus prime :)
 - **Fine-tuning:** QLoRA implementation with 4-bit quantization, for the novel purpose of 'rizzing'.
-- **IEEE Confrence** Battery health optimization paper using residual physics has been accepted in ieee confrence.
+- **IEEE Confrence : ** Battery health optimization paper using residual physics has been accepted in ieee confrence.
 
 ## 🚀 **What I'm Working On:**
 - Parameter-efficient fine-tuning techniques

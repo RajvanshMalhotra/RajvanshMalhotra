@@ -3,36 +3,34 @@
 </p>
 
 #  💪 About Me
-<br><br>I'm Rajvansh Malhotra, a Computer Engineering student at NIT Kurukshetra, passionate about building AI systems that solve real problems efficiently and at scale.<br><br>
+<br><br>I'm Rajvansh Malhotra, a Computer Engineering student at NIT Kurukshetra, am into ml,dl,gen ai. I guess the picture above speaks for itself 😎.<br><br>
 
 My work spans from machine learning to deep learning and transormers, with hands-on experience in projects involving nerual nets,sequence to sequence models,Vision Transformers,fine-tuning llms and  Agentic ai.
 I'm always up to date with the latest tools and methods, and I enjoy combining technical depth with practical execution. Whether it's optimizing performance, scaling systems, or simplifying complex tasks, I focus on delivering clean, effective solutions.<br><br>
 
 What I bring: Strong technical skills, fast learning, and execution and deep research mindset.
 
-What I build: AI systems and agents that work reliably and scale smoothly.
-
+I build agents and llm pipelines and train neural nets.
 
 I’m always open to opportunities that involve building and  learning.
 
 ## 🎯 **Current Focus:**
 Building next-gen AI systems that don't just work, they dominate benchmarks and solve real problems, also digging the path towards agi also rizzin side by side.
 
-## 🏆 **Recent Wins:**
+## 🏆 **About me :**
 - **AMAZON ML CHALLENGE 2025:** AIR 2313 
-- **Deepfake Detection:** 60% → 99.8% accuracy (F1: 0.99) (a novel method, paper under process)
+- **Deepfake Detection:** Engineered a tailored approach to tackle deepfakes, using golden rations and eye spacing ratios, paper in review !
 - **LinkedIn ai Agent:** Scales to 100s of jobs with multithreaded efficiency and custom caching basically redis on steroids
-- **LIA2.0:** this is a newer verison of the linkdin ai agent it integrates redis, and queuing pof tasks, needless to say true autonomy/AGI is far but with better open source reasoning models it can be achieved.RUBRICS act as a good heuristic and reduces hallucination of responses to a great extent. KEY thing to learn: prompt injection. 
+- **LIA2.0:** this is a newer verison of the linkdin ai agent it integrates redis, and queuing of tasks, needless to say true autonomy/AGI is far but with better open source reasoning models it can be achieved.RUBRICS act as a good heuristic and reduces hallucination of responses to a great extent. KEY thing to learn: prompt injection. 
 - **Optimum_React :** custom ReAct agent implemented from scratch, gives more control than simple abstracting and using other frameworks, easy to understand, no unnecessary hassle.
 played around with memory,orchestration, hierachial thoughts,byte size node linkage, but will get there soon! (for more go on repo!)
 P.S : made with caffine,like optimus prime :)
 - **Fine-tuning:** QLoRA implementation with 4-bit quantization, for the novel purpose of 'rizzing'.
 - **IEEE Confrence:** Battery health optimization paper using residual physics has been accepted in ieee confrence.
+- **Watch nerd** From the dial color to the movement, basically sheldon but to watches and ml.
 
 ## 🚀 **What I'm Working On:**
-- Parameter-efficient fine-tuning techniques
-- Production-scale AI Agents
-
+I Build ML on 3AM thoughts.Apart from that professionally I work on neural nets any deep learning model I get my hands on and use them to solve problems.
 
 ## **Philosophy I admire:**
 *"किसी चीज़ को शिद्दत से चाहो तो पूरी कायनात तुम्हें उससे मिलाने में लग जाती है"*
